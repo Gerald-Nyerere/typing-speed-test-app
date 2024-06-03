@@ -1,0 +1,9 @@
+Python is widely used in data analysis and visualization.
+Frameworks such as Django and Flask are used for backend web development.
+Software development.
+You can use Python in software development for scripting, automation, and testing.
+Game development.
+You can even use it for game development using libraries like PyGame and tkinter.
+Machine learning & AI. 
+Libraries like PyTorch, and Scikit-learn make Python popular choice in this field.
+Find out how to learn AI in a separate guide.
